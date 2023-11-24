@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e67a0aa-f441-42b6-bdd2-d9a101458fc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/mypackage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contributing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rewriteRules.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rules.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facades/MyPackage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPackage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPackageServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TestbenchTestCase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700862895085</updated>
       <workItem from="1700862896230" duration="585000" />
-      <workItem from="1700863662526" duration="409000" />
+      <workItem from="1700863662526" duration="776000" />
     </task>
     <servers />
   </component>
